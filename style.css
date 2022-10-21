@@ -1,0 +1,71 @@
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  color: #000000;
+  font-size: 40px;
+  border-style: solid;
+  border-width: 5px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-color:#000000;
+}
+
+h2 {
+    margin-top: 3%;
+      color: #EEEEEE;
+
+}
+
+h3{
+  color: #EEEEEE;
+
+}
+
+ul {
+  font-size: 20px;
+  margin-left: 36%;
+  list-style-position: inside;
+  color: #000000;
+}
+
+td {
+  padding-left: 257px;
+  padding-right: 90px;
+}
+
+p{
+    color: #000000;
+}
+
+h6 {
+  color:#000000;
+    font-size: 27px;
+}
+
+h5 {
+  font-size: 27px;
+    border-style: solid;
+    border-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-color: black;
+}
+
+h4 {
+  color:white;
+    font-size: 20px;
+}
+
+a:visited {
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+  background-color: transparent;
+  text-decoration: underline;
+}
